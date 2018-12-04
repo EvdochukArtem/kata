@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dubstep", "Dubstep\Dubstep.csproj", "{29718CBD-1F58-4195-9A26-3A99601A34CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29718CBD-1F58-4195-9A26-3A99601A34CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29718CBD-1F58-4195-9A26-3A99601A34CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29718CBD-1F58-4195-9A26-3A99601A34CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29718CBD-1F58-4195-9A26-3A99601A34CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21212608-1C56-47FC-A832-97F10734E615}
+	EndGlobalSection
+EndGlobal

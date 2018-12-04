@@ -1,0 +1,7 @@
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.exe.config
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.exe
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\bin\Debug\Rectangle into Squares.pdb
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.csprojAssemblyReference.cache
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.exe
+C:\Users\Artem\source\kata\Rectangle into Squares\Rectangle into Squares\obj\Debug\Rectangle into Squares.pdb
