@@ -10,7 +10,7 @@ namespace Roman_Numerals_Encoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(RomanConvert.Solution(2008));
+            Console.WriteLine(RomanConvert.Solution(1954));
             Console.ReadLine();
         }
     }
@@ -30,9 +30,9 @@ namespace Roman_Numerals_Encoder
                 }
                 if (a % 5 == 4)
                     digit = digit.Remove(1) + roman[j * 2 + a / 4];
-                if (a / 5 > 0)
+                else if (a / 5 > 0)
                     digit = digit.Remove(a % 5)
-                                 .Insert(0, roman[j *2 + a / 5].ToString());
+                                 .Insert(0, roman[j * 2 + a / 5].ToString());
                 result = result.Insert(0, digit);
                 n /= 10; j++;
             }
