@@ -1,0 +1,7 @@
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\bin\Debug\Roman Numerals Encoder.exe.config
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\bin\Debug\Roman Numerals Encoder.exe
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\bin\Debug\Roman Numerals Encoder.pdb
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\obj\Debug\Roman Numerals Encoder.csprojAssemblyReference.cache
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\obj\Debug\Roman Numerals Encoder.csproj.CoreCompileInputs.cache
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\obj\Debug\Roman Numerals Encoder.exe
+C:\GitHub\kata\Roman Numerals Encoder\Roman Numerals Encoder\obj\Debug\Roman Numerals Encoder.pdb
